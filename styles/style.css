@@ -1,0 +1,39 @@
+html {
+    font-size: 10px;
+    font-family: "Oswald", sans-serif;
+  }
+p {
+    text-align: center;
+    line-height: 2;
+    font-size: 16px;
+    letter-spacing: 1px;
+}
+h1, h2, h3 {
+    font-size: 60px;
+    text-align: center;
+
+}
+body {
+    text-align: center;
+    font-size: 16px;
+}
+html {
+    background-color: #E9E9F1;
+}
+body {
+    width: 900px;
+    background-color: #EDDDF7;
+    margin: 0 auto;
+    padding: 0 20px 20px 20px;
+    border: 7px solid black;
+}
+h1 {
+    margin: 0;
+    padding: 20px 0;    
+    color: #59615d;
+    text-shadow: 3px 3px 1px rgb(10, 9, 9);
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
